@@ -1,0 +1,27 @@
+Você está na casa do Barão.;Forte
+Você está na praça central do vilarejo, frequentada por camponeses.;Praça
+Você está na armoaria, local de compra e venda de armamentos e armaduras.;Armoaria
+Você está no mercado, aqui você encontra poções, aneis e colares.;Mercado
+Você está na entrada do vilarejo que é cercado por uma paliçada, é protegida por um guarda.;Entrada
+Você está no bosque não muito distante da vila.;Bosque1
+Você está na antiga torre de vigilha da aldeia.;Torre
+Você está em uma região mais profunda do bosque.;Bosque2
+Você está em uma parte do bosque com o terreno cheio de rochas, consegue ver uma caverna a Leste.;Rochas
+Você está em uma clareira.;Clareira
+Você está dentro da caverna, um pouco depois da entrada.;Caverna
+Você está em uma grande salão esculpido nas rochas.;Salão
+Você está em uma parte profunda da caverna, cheia de baús. Parece ser um local de tesouros.;Cofre
+EXITS:
+Forte;1;south;Praça
+Praça;4;north;Forte;south;Entrada;east;Mercado;west;Armoaria
+Armoaria;1;east;Praça
+Mercado;1;west;Praça
+Entrada;2;north;Praça;south;Bosque1
+Bosque1;3;north;Entrada;south;Torre;east;Bosque2
+Torre;1;north;Bosque1
+Bosque2;2;east;Rochas;west;Bosque1
+Rochas;3;south;Clareira;east;Caverna;west;Bosque2
+Clareira;1;north;Rochas
+Caverna;3;north;Salão;east;Cofre;west;Rochas
+Salão;1;south;Caverna
+Cofre;1;west;Caverna

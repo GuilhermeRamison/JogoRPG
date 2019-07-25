@@ -1,0 +1,21 @@
+Kobold1;100;30;500;150
+Draconato1;250;50;1000;300
+Kobold2;100;30;500;150
+Kobold3;100;30;500;150
+Kobold4;100;30;500;150
+Draconato2;250;50;1000;300
+Kobold5;100;30;500;150
+Draconato3;250;50;1000;300
+Kobold6;100;30;500;150
+Draconato4;250;50;1000;300
+Draconato5;250;50;1000;300
+Draconato6;250;50;1000;300
+Talorak;1000;2000;2000;500
+FOLKS:
+Herold;1000;Que bom que você veio, sua missão é acabar com Talorak, meu antigo mago. O colar de Tiamat o corrompeu e agora ele está mandando seres dracônicos nos atacar.Traga-me Tiamat.;Já conseguiu o Tiamat? 
+Halt;50;Olá aventureiro, seja bem-vindo!;Acabe com esses Kobolds! Estão destruindo as plantações. Por favor!
+Chloe;50;É bom ter sangue novo por aqui!;Cuidado com o colar de Tiamate, ele da o poder de controlar os seres dracônicos!
+Guarda;50;Aí está você! Me avisaram que um novo aventureiro viria nos ajudar. Entre, o Barão Herold está esperando!;Eu costumava ser um aventureiro como você, até que eu levei uma flechada no joelho.
+MERCHANTS:
+Fergus;500;200;Aqui você encontrará as melhores armas e armaduras da região! Também reparo seus equipamentos...;No que posso ajudar?
+Gaunter;500;200;Você precisará de poções para acabar com essas lagartixas, faço um bom preço para você.;Deseja alguma coisa?
