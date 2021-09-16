@@ -1,12 +1,12 @@
-Jogo feito para colocar em prática os conceitos da POO.\
+Jogo feito para colocar em prática os conceitos da POO.
 
 
->>Para executar o jogo:\
+>>Para executar o jogo:
 
-Abra o diretório contendo o JogoRPG.jar e os demais arquivos .txt no terminal. Digite:\
-java -jar "JogoRPG.jar"\
+Abra o diretório contendo o JogoRPG.jar e os demais arquivos .txt no terminal. Digite:
+java -jar "JogoRPG.jar"
 
->>Intruções do jogo\
+>>Intruções do jogo
 
 Enquanto fora de batalha:\
 go <direção> 		 (vai para a próxima sala do jogo) EXEMPLO: go north\
@@ -26,4 +26,4 @@ Enquanto dentro de batalha:\
 attack <inimigo>         (ataca o inimigo indicado) EXEMPLO: attack Kobold\
 heal <item>   		 (irá curar o personagem com o item escolhido) EXEMPLO: heal Fruta\
 go <direção> 		 (semelhante quando fora de batalha, porém você só pode ir para a sala anterior) \
-quit                     (encerra o jogo)\
+quit                     (encerra o jogo)
